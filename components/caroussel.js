@@ -80,7 +80,7 @@ const settings = {
 
                         <div className="ecricaro1">
                         <h1 className="slogan">KS immobilier </h1>
-                        <h2 style={{marginBottom:"100px"}}>La meilleure façon de trouver votre bien immobilier Neuf, c est chez ks-immobilier!</h2>
+                        <h2 style={{marginBottom:"100px"}}>La meilleure façon de trouver votre bien immobilier Neuf, c est chez ks-immobilier!!</h2>
                         {/* <ul className="dotlist">
                             <div style={{display:"flex"}}>
                             <img  style={{marginBottom:"24px",width:"220px"}} src="/assets/imgescaroussel/logo KS RENOV.svg" alt="ksrenov" />

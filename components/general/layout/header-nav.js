@@ -13,7 +13,7 @@ const HeaderNav = props => {
       <div className="container">
          {/* <Link href="/"> */}
            <a className="fadein">
-            <Image width="240" height="85" layout="fixed" src="/assets/logo.svg" alt="KS-Holding" id="logo" />
+            <Image width="100" height="55" layout="fixed" src="/assets/KS IMMO SIGNATURE.png" alt="KS-Holding" id="logo" />
           </a>
         {/* </Link>  */}
         <ul>

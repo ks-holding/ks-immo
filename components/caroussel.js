@@ -95,12 +95,12 @@ const settings = {
                         </ul>
 
                         <p>KS HOLDING propose par le biais des filiales des solutions en matière de rénovation énergétique, isolation et échafaudage. Nous nous adressons aux particuliers et aux professionnels.</p> */}
-                        <Link href="/contact">
+                        {/* <Link href="/contact">
                             <button className="button-empty row">
                             <MailOpenOutline width="22px" height="22px" color="#21273b" />
                             Contactez-nous
                             </button>
-                        </Link>
+                        </Link> */}
                         </div>
                         <div className="ecricaropremiere">
                        

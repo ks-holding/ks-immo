@@ -117,8 +117,8 @@ export default function Home() {
     //   </main>
     // </div>
     <Layout
-      title="Solutions BTP pour professionnels et particuliers"
-      description="Des solutions en matière de rénovation énergétique, isolation et échafaudage."
+      title="Solutions Immobilières Personnalisées pour Particuliers et Entreprises"
+      description="Trouvez, vendez, investissez. Experts immobiliers dédiés à vous simplifier chaque étape. L'excellence, personnalisée pour vous."
     >
       <Head>
         <script
